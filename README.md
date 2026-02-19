@@ -21,7 +21,8 @@ To get started with Unified Mentor, follow these steps:
 
 
 ## Contact
-For any inquiries, please contact: [mitrasayan631@gmail.com](mailto:mitrasayan631@gmail.com)
+For any personal inquiries, please contact: [mitrasayan631@gmail.com](mailto:mitrasayan631@gmail.com)
+For any internship or job guidence, please contact: [hello@unifiedmentor.com](mailto:hello@unifiedmentor.com)
 
 ## Acknowledgments
 - Special thanks to our mentors for their guidance and support throughout this project.
