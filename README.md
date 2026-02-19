@@ -5,7 +5,6 @@ Unified Mentor is a platform designed to connect mentors with mentees, facilitat
 
 ## Features
 - **Search Functionality:** Easily find mentors based on expertise, availability, and location.
-- **Profile Creation:** Users can create detailed profiles that showcase their skills and experiences.
 - **Messaging System:** Built-in chat feature to communicate between mentors and mentees.
 - **Scheduling:** Integrated calendar for setting up meetings and sessions.
 
